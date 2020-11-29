@@ -1,0 +1,7 @@
+domain: k8s.io
+repo: github.com/shibataka000/kubecontorller-book-sample-snippet
+resources:
+- group: samplecontroller
+  kind: Foo
+  version: v1alpha1
+version: "2"
